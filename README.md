@@ -4,8 +4,6 @@
 - 🔭 I’m currently working on MLM eCommerce System
 - 🌱 I’m currently learning Big Data
 - 👯 I’m looking to collaborate on web projects
-- 🤔 I’m looking for help with 
-- 💬 Ask me about ...
 - 📫 Reach me via
     - Twitter https://twitter.com/MuradFaridi
     - Email muradfaridi92@gmail.com
